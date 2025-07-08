@@ -12,7 +12,9 @@
     "wm_on": true,
     "abort": false,
     "parallel_space": true,
-    "cfg_path_ps": "/sdcard/"
+    "cfg_path_ps": "/sdcard/",
+    "second_wm": "ww",
+    "second_wm_size": 19
    }
   ],
  "functions": {
