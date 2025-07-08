@@ -11,7 +11,7 @@
     "wm_desc": "",
     "wm_time": true,
     "wm_on": true,
-    "abort": true,
+    "abort": false,
     "parallel_space": true,
     "cfg_path_ps": "/sdcard/",
     "second_wm": "QazaqDLC.t.me",
