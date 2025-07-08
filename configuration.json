@@ -2,8 +2,8 @@
  "versions": [
    {
     "version": "kyr-1.0-v1-b",
-    "version_status": 0,
-    "open": false,
+    "version_status": 2,
+    "open": true,
     "reason": "",
     "name": "KyrgyzDLC v1-b",
     "desc": "StandKnife 2.9F2 | arm64-v8a",
