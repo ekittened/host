@@ -7,16 +7,16 @@
     "reason": "",
     "name": "QazaqDLC",
     "desc": "T1 DLC | QazaqDLC.t.me",
-    "wm_title": "QazaqDLC | ",
+    "wm_title": "QazaqDLC.t.me | ",
     "wm_desc": "",
     "wm_time": true,
     "wm_on": true,
-    "abort": false,
+    "abort": true,
     "parallel_space": true,
     "cfg_path_ps": "/sdcard/",
-    "second_wm": "kyrgyzdlc.t.me",
+    "second_wm": "QazaqDLC.t.me",
     "second_wm_size": 29,
-    "abort_time": 5
+    "abort_time": 0
    }
   ],
  "functions": {
