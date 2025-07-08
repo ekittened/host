@@ -1,16 +1,16 @@
 {
- "versons": [
+ "versions": [
    {
     "version": "kyr-1.0-v1-b",
-    "open": true,
-    "reason": "",
+    "open": false,
+    "reason": "Version unavailable",
     "name": "KyrgyzDLC v1-b",
     "desc": "StandKnife 2.9F2 | arm64-v8a",
     "wm_title": "KyrgyzDLC | ",
     "wm_desc": "kyrgyzdlc.t.me | ",
     "wm_time": true,
     "wm_on": true,
-    "abort": false,
+    "abort": true,
     "parallel_space": true,
     "cfg_path_ps": "/sdcard/"
    }
