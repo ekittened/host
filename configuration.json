@@ -5,7 +5,7 @@
     "isOpen":                         true,
     "isWatermarkOn":                  true,
     "isWatermarkTimeOn":              true,
-    "isAbortOn":                      true,
+    "isAbortOn":                      false,
     "notAllowedReason":               "",
     "cheatVersion":                   "",
     "cheatTitle":                     "KyrgyzDLC",
