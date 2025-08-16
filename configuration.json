@@ -2,11 +2,11 @@
  "versions": [
     {
     "version":                        "simple-paste",
-    "isOpen":                         true,
+    "isOpen":                         false,
     "isWatermarkOn":                  true,
     "isWatermarkTimeOn":              true,
     "isAbortOn":                      false,
-    "notAllowedReason":               "",
+    "notAllowedReason":               "im pidor",
     "cheatVersion":                   "",
     "cheatTitle":                     "SimpleDLC.t.me",
     "cheatDesc":                      "STANDLEO 2.8",
