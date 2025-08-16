@@ -24,6 +24,8 @@
    "powered_by":               { "enabled": true,  "label": "Powered by kazcore" },
    "dlc_version":              { "enabled": true,  "label": "DLC: SimpleDLC based on KazakhDLC 2.5 BETA B2" },
    "game_version":             { "enabled": true,  "label": "for STANDLEO 2.8 [arm64-v8a]" },
+   "snowflakes":               { "enabled": true,  "label": "Snowflakes" },
+   "transparency":             { "enabled": true,  "label": "Background Transparency" },
    "chams":                    { "enabled": true,  "label": "Chams" },
    "shader":                   { "enabled": true,  "label": "Shader" },
    "textures_fix":             { "enabled": true,  "label": "Textures Fix" },
