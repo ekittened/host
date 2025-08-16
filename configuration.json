@@ -1,18 +1,18 @@
 {
  "versions": [
     {
-    "version":                        "simple-paste",
-    "isOpen":                         false,
+    "version":                        "kyrgyz-paste",
+    "isOpen":                         true,
     "isWatermarkOn":                  true,
     "isWatermarkTimeOn":              true,
     "isAbortOn":                      true,
-    "notAllowedReason":               "вот так вот",
+    "notAllowedReason":               "",
     "cheatVersion":                   "",
-    "cheatTitle":                     "SimpleDLC.t.me",
+    "cheatTitle":                     "KyrgyzDLC",
     "cheatDesc":                      "STANDLEO 2.8",
-    "watermarkTitle":                 "SimpleDLC | ",
-    "watermarkDescription":           "SimpleDLC.t.me",
-    "miniWatermarkText":              "SimpleDLC.t.me",
+    "watermarkTitle":                 "KyrgyzDLC | ",
+    "watermarkDescription":           "KyrgyzDLC.t.me",
+    "miniWatermarkText":              "KyrgyzDLC.t.me",
     "apiVersion":                     "",
     "miniWatermarkSize":              30,
     "cheatStatus":                    0,
@@ -22,7 +22,7 @@
  "functions": {
    "simple-paste": {
    "powered_by":               { "enabled": true,  "label": "Powered by kazcore" },
-   "dlc_version":              { "enabled": true,  "label": "DLC: SimpleDLC based on KazakhDLC 2.5 BETA B2" },
+   "dlc_version":              { "enabled": true,  "label": "DLC: KyrgyzDLC based on KazakhDLC 2.5 BETA B2" },
    "game_version":             { "enabled": true,  "label": "for STANDLEO 2.8 [arm64-v8a]" },
    "snowflakes":               { "enabled": true,  "label": "Snowflakes" },
    "transparency":             { "enabled": true,  "label": "Background Transparency" },
