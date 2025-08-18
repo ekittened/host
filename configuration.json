@@ -2,11 +2,11 @@
  "versions": [
     {
     "version":                        "kyrgyz-paste",
-    "isOpen":                         true,
+    "isOpen":                         false,
     "isWatermarkOn":                  true,
     "isWatermarkTimeOn":              true,
     "isAbortOn":                      false,
-    "notAllowedReason":               "",
+    "notAllowedReason":               "Тех. работы",
     "cheatVersion":                   "",
     "cheatTitle":                     "KyrgyzDLC",
     "cheatDesc":                      "STANDLEO 2.8",
