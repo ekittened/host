@@ -20,11 +20,11 @@
    },
    {
     "version":                        "qazaqdlc",
-    "isOpen":                         false,
+    "isOpen":                         true,
     "isWatermarkOn":                  true,
     "isWatermarkTimeOn":              true,
     "isAbortOn":                      false,
-    "notAllowedReason":               "пуки пуки каки каки",
+    "notAllowedReason":               "",
     "cheatVersion":                   "",
     "cheatTitle":                     "QazaqDLC бета",
     "cheatDesc":                      "qazaqdlc.com",
