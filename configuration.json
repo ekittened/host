@@ -99,6 +99,7 @@
    "game_version":             { "enabled": true,  "label": "for _ [arm64-v8a]" },
    "snowflakes":               { "enabled": true,  "label": "Snowflakes" },
    "transparency":             { "enabled": true,  "label": "Background Transparency" },
+   "functions_off":            { "enabled": true,  "label": "Turn off all functions" },
    "config_system":            { "enabled": true,  "label": "Configuration System [BETA]" }
    }
 }
