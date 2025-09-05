@@ -20,7 +20,7 @@
    },
    {
     "version":                        "qazaqdlc",
-    "isOpen":                         false,
+    "isOpen":                         true,
     "isWatermarkOn":                  true,
     "isWatermarkTimeOn":              true,
     "isAbortOn":                      false,
