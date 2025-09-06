@@ -34,8 +34,7 @@
     "apiVersion":                     "",
     "miniWatermarkSize":              30,
     "cheatStatus":                    0,
-    "abortTime":                      5,
-    "signature":                      ""
+    "abortTime":                      5
    }
   ],
  "functions": {
