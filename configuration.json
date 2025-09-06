@@ -19,7 +19,7 @@
     "abortTime":                      5
    },
    {
-    "version":                        "qazaqdlc",
+    "version":                        "qazaqdlc beta for sk 2.9f3 x64",
     "isOpen":                         true,
     "isWatermarkOn":                  true,
     "isWatermarkTimeOn":              true,
@@ -71,7 +71,7 @@
    "glow":                     { "enabled": true,  "label": "Glow" },
    "gl_color":                 { "enabled": true,  "label": "GL Color" }
    },
-   "qazaqdlc": {
+   "qazaqdlc beta for sk 2.9f3 x64": {
    "esp_header":               { "enabled": true,  "label": "ESP [BETA]" },
    "esp":                      { "enabled": true,  "label": "Activate ESP" },
    "box":                      { "enabled": true,  "label": "ESP Box" },
